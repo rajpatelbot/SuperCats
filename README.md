@@ -8,6 +8,9 @@
 - It uses [eslint](https://eslint.org/) for linting.
 - It uses [Prettier](https://prettier.io/) for formatting.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/d0635299-013a-4c20-9f4a-b2756766473a)
+
 ## Installation
 
 ```bash
