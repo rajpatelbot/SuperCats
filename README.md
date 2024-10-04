@@ -17,6 +17,13 @@ npm install
 npm run dev
 ```
 
+# Dependencies
+
+- [axios](https://axios-http.com/)
+- [react-router-dom](https://reactrouter.com/)
+- [mui](https://mui.com/)
+- [Classic React Hooks](https://github.com/Ashish-simpleCoder/classic-react-hooks)
+
 ## Features
 
 - Fetch data from the [Cat API](https://api.thecatapi.com/v1/).
@@ -24,6 +31,13 @@ npm run dev
 - Search for cats.
 - Pagination.
 - Responsive design.
+
+## Code Structure
+
+- src
+- components
+- hooks
+- pages
 
 ## Technologies
 
